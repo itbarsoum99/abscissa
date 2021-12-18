@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The predictable correlation between voter suppression and low income</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="/assets/styles.css">
+  </head>
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/d3plus-plot@1">
+      var data = [
+        {id: "alpha", x: 4, y:  7},
+        {id: "beta",  x: 5, y:  2},
+        {id: "gamma", x: 6, y: 13}
+      ];
+      new d3plus.Plot()
+        .data(data)
+        .groupBy("id")
+        .render();
+    </script>
+
+  </body>
+</html>

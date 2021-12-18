@@ -1,0 +1,354 @@
+{
+"states": [
+  {
+    "state": "Alabama",
+    "score": 61,
+    "population": 5024279,
+    "redTilt": 3,
+    "povertyRate": 15.5
+  },
+  {
+    "state": "Alaska",
+    "score": 64,
+    "population": 733391,
+    "redTilt": 2,
+    "povertyRate": 10.1
+  },
+  {
+    "state": "Arizona",
+    "score": 62,
+    "population": 7151502,
+    "redTilt": -1,
+    "povertyRate": 13.5
+  },
+  {
+    "state": "Arkansas",
+    "score": 62,
+    "population": 3011524,
+    "redTilt": 3,
+    "povertyRate": 16.2
+  },
+  {
+    "state": "California",
+    "score": 68,
+    "population": 39538223,
+    "redTilt": -3,
+    "povertyRate": 11.5
+  },
+  {
+    "state": "Colorado",
+    "score": 71,
+    "population": 5773714,
+    "redTilt": -2,
+    "povertyRate": 9.0
+  },
+  {
+    "state": "Connecticut",
+    "score": 65,
+    "population": 3605944,
+    "redTilt": -3,
+    "povertyRate": 9.7
+  },
+  {
+    "state": "Delaware",
+    "score": 70,
+    "population": 989948,
+    "redTilt": -3,
+    "povertyRate": 10.9
+  },
+  {
+    "state": "Florida",
+    "score": 55,
+    "population": 21538187,
+    "redTilt": 0,
+    "povertyRate": 12.4
+  },
+  {
+    "state": "Georgia",
+    "score": 49,
+    "population": 10711908,
+    "redTilt": 0,
+    "povertyRate": 14.0
+  },
+  {
+    "state": "Hawaii",
+    "score": 66,
+    "population": 1455271,
+    "redTilt": -3,
+    "povertyRate": 8.9
+  },
+  {
+    "state": "Idaho",
+    "score": 66,
+    "population": 1839106,
+    "redTilt": 3,
+    "povertyRate": 10.1
+  },
+  {
+    "state": "Illinois",
+    "score": 69,
+    "population": 12812508,
+    "redTilt": -3,
+    "povertyRate": 11.0
+  },
+  {
+    "state": "Indiana",
+    "score": 56,
+    "population": 6785528,
+    "redTilt": 2,
+    "povertyRate": 11.6
+  },
+  {
+    "state": "Iowa",
+    "score": 75,
+    "population": 3190369,
+    "redTilt": 0,
+    "povertyRate": 10.2
+  },
+  {
+    "state": "Kansas",
+    "score": 65,
+    "population": 2937880,
+    "redTilt": 2,
+    "povertyRate": 10.6
+  },
+  {
+    "state": "Kentucky",
+    "score": 60,
+    "population": 4505836,
+    "redTilt": 3,
+    "povertyRate": 14.9
+  },
+  {
+    "state": "Louisiana",
+    "score": 71,
+    "population": 4657757,
+    "redTilt": 3,
+    "povertyRate": 17.8
+  },
+  {
+    "state": "Maine",
+    "score": 79,
+    "population": 1362359,
+    "redTilt": -2,
+    "povertyRate": 10.6
+  },
+  {
+    "state": "Maryland",
+    "score": 71,
+    "population": 6177224,
+    "redTilt": -3,
+    "povertyRate": 9.0
+  },
+  {
+    "state": "Massachusetts",
+    "score": 72,
+    "population": 7029917,
+    "redTilt": -3,
+    "povertyRate": 9.4
+  },
+  {
+    "state": "Michigan",
+    "score": 63,
+    "population": 10077331,
+    "redTilt": -1,
+    "povertyRate": 12.6
+  },
+  {
+    "state": "Minnesota",
+    "score": 76,
+    "population": 5706494,
+    "redTilt": -1,
+    "povertyRate": 8.3
+  },
+  {
+    "state": "Mississippi",
+    "score": 61,
+    "population": 2961279,
+    "redTilt": 3,
+    "povertyRate": 18.7
+  },
+  {
+    "state": "Missouri",
+    "score": 63,
+    "population": 6154913,
+    "redTilt": 2,
+    "povertyRate": 12.1
+  },
+  {
+    "state": "Montana",
+    "score": 65,
+    "population": 1084225,
+    "redTilt": 2,
+    "povertyRate": 12.4
+  },
+  {
+    "state": "Nebraska",
+    "score": 60,
+    "population": 1961504,
+    "redTilt": 3,
+    "povertyRate": 9.2
+  },
+  {
+    "state": "Nevada",
+    "score": 74,
+    "population": 3104614,
+    "redTilt": -1,
+    "povertyRate": 12.5
+  },
+  {
+    "state": "New Hampshire",
+    "score": 74,
+    "population": 1377529,
+    "redTilt": -1,
+    "povertyRate": 7.0
+  },
+  {
+    "state": "New Jersey",
+    "score": 66,
+    "population": 9288994,
+    "redTilt": -3,
+    "povertyRate": 9.4
+  },
+  {
+    "state": "New Mexico",
+    "score": 71,
+    "population": 2117522,
+    "redTilt": -3,
+    "povertyRate": 16.8
+  },
+  {
+    "state": "New York",
+    "score": 61,
+    "population": 20201249,
+    "redTilt": -3,
+    "povertyRate": 12.7
+  },
+  {
+    "state": "North Carolina",
+    "score": 58,
+    "population": 10439388,
+    "redTilt": 0,
+    "povertyRate": 12.9
+  },
+  {
+    "state": "North Dakota",
+    "score": 63,
+    "population": 779094,
+    "redTilt": 3,
+    "povertyRate": 10.2
+  },
+  {
+    "state": "Ohio",
+    "score": 62,
+    "population": 11799448,
+    "redTilt": 0,
+    "povertyRate": 12.6
+  },
+  {
+    "state": "Oklahoma",
+    "score": 64,
+    "population": 3959353,
+    "redTilt": 3,
+    "povertyRate": 14.3
+  },
+  {
+    "state": "Oregon",
+    "score": 70,
+    "population": 4237256,
+    "redTilt": -3,
+    "povertyRate": 11.0
+  },
+  {
+    "state": "Pennsylvania",
+    "score": 62,
+    "population": 13002700,
+    "redTilt": -1,
+    "povertyRate": 10.9
+  },
+  {
+    "state": "Rhode Island",
+    "score": 68,
+    "population": 1097379,
+    "redTilt": -3,
+    "povertyRate": 10.6
+  },
+  {
+    "state": "South Carolina",
+    "score": 56,
+    "population": 5118425,
+    "redTilt": 2,
+    "povertyRate": 13.8
+  },
+  {
+    "state": "South Dakota",
+    "score": 69,
+    "population": 886667,
+    "redTilt": 3,
+    "povertyRate": 11.6
+  },
+  {
+    "state": "Tennessee",
+    "score": 62,
+    "population": 6910840,
+    "redTilt": 3,
+    "povertyRate": 13.6
+  },
+  {
+    "state": "Texas",
+    "score": 60,
+    "population": 29145505,
+    "redTilt": 0,
+    "povertyRate": 13.4
+  },
+  {
+    "state": "Utah",
+    "score": 68,
+    "population": 3271616,
+    "redTilt": 2,
+    "povertyRate": 7.3
+  },
+  {
+    "state": "Vermont",
+    "score": 83,
+    "population": 643077,
+    "redTilt": 3,
+    "povertyRate": 9.4
+  },
+  {
+    "state": "Virginia",
+    "score": 65,
+    "population": 8631393,
+    "redTilt": -2,
+    "povertyRate": 9.2
+  },
+  {
+    "state": "Washington",
+    "score": 79,
+    "population": 7705281,
+    "redTilt": -3,
+    "povertyRate": 9.5
+  },
+  {
+    "state": "West Virginia",
+    "score": 58,
+    "population": 1793716,
+    "redTilt": 3,
+    "povertyRate": 15.8
+  },
+  {
+    "state": "Wisconsin",
+    "score": 63,
+    "population": 5893718,
+    "redTilt": -1,
+    "povertyRate": 10.0
+  },
+  {
+    "state": "Wyoming",
+    "score": 66,
+    "population": 576851,
+    "redTilt": 3,
+    "povertyRate": 9.2
+  }
+]
+}
