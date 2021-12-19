@@ -360,6 +360,12 @@ height: 7vh;
     text-align: left;
     text-indent: 10%;
   }
+  .sources p {
+    text-indent: 0%;
+  }
+  .article-body h2 {
+    font-size: 3rem;
+  }
   figcaption {
     font-size: 2rem;
   }
