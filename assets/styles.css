@@ -358,6 +358,7 @@ height: 7vh;
   .article-body p {
     font-size: 2.5rem;
     text-align: left;
+    text-indent: 10%;
   }
   figcaption {
     font-size: 2rem;
