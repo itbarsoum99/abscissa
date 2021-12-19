@@ -338,7 +338,7 @@ height: 7vh;
     margin-inline-start: 0px;
   }
   .article-heading h1 {
-    font-size: 128px;
+    font-size: 110px;
   }
   .article-heading p {
     font-size: 2.5rem;
@@ -349,5 +349,11 @@ height: 7vh;
   }
   .article-body p {
     font-size: 2.5rem;
+  }
+  figcaption {
+    font-size: 2rem;
+  }
+  #mouse-scroll {
+    display: none;
   }
 }
