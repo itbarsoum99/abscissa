@@ -340,7 +340,10 @@ height: 7vh;
     margin-inline-end: 0px;
   }
   .heading h1 {
-    font-size: 110px;
+    font-size: 90px;
+  }
+  .heading h1 strong {
+    font-size: 90px;
   }
   .article-heading h1 {
     font-size: 110px;
