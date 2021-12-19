@@ -303,6 +303,7 @@ height: 7vh;
   }
   figure {
     margin-inline-start: 0px;
+    margin-inline-end: 0px;
   }
   .article-body{
     padding-left: 0vw;
@@ -336,6 +337,7 @@ height: 7vh;
   }
   figure {
     margin-inline-start: 0px;
+    margin-inline-end: 0px;
   }
   .article-heading h1 {
     font-size: 110px;
@@ -349,11 +351,15 @@ height: 7vh;
   }
   .article-body p {
     font-size: 2.5rem;
+    text-align: left;
   }
   figcaption {
     font-size: 2rem;
   }
   #mouse-scroll {
     display: none;
+  }
+  a {
+    text-decoration-thickness: 5px;
   }
 }
