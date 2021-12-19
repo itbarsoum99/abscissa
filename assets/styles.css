@@ -337,8 +337,17 @@ height: 7vh;
   figure {
     margin-inline-start: 0px;
   }
+  .article-heading h1 {
+    font-size: 128px;
+  }
+  .article-heading p {
+    font-size: 2.5rem;
+  }
   .article-body{
     padding-left: 0vw;
     padding-right: 0vw;
+  }
+  .article-body p {
+    font-size: 2.5rem;
   }
 }
