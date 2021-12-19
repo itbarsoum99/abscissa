@@ -371,6 +371,7 @@ height: 7vh;
   .item {
     min-height: 20vh;
     font-size: 40px;
+    padding: 3rem 10vw 3rem 3rem;
   }
   .item img {
     width: 35vw;
