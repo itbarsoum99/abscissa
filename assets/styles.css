@@ -352,6 +352,7 @@ height: 7vh;
     font-size: 2.5rem;
   }
   .heading, .article-heading {
+    height: auto;
     min-height: 100vh;
   }
   .article-body{
