@@ -353,7 +353,6 @@ height: 7vh;
   }
   .heading, .article-heading {
     min-height: 100vh;
-    height: auto;
   }
   .article-body{
     padding-left: 0vw;
