@@ -1,0 +1,107 @@
+[
+  {
+    "word": "no",
+    "y": 34233,
+    "x": 1,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "o",
+    "y": 22671,
+    "x": 2,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "ni",
+    "y": 22552,
+    "x": 3,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "ha",
+    "y": 22317,
+    "x": 4,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "ga",
+    "y": 21493,
+    "x": 5,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "de",
+    "y": 19491,
+    "x": 6,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "to",
+    "y": 19174,
+    "x": 7,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "na",
+    "y": 16944,
+    "x": 8,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "mo",
+    "y": 16902,
+    "x": 9,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "toshi",
+    "y": 16361,
+    "x": 10,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "he",
+    "y": 16225,
+    "x": 11,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "kara",
+    "y": 16212,
+    "x": 12,
+    "length": 2,
+    "language": "japanese"
+  },
+  {
+    "word": "o",
+    "y": 16027,
+    "x": 13,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "kiji",
+    "y": 15886,
+    "x": 14,
+    "length": 2,
+    "language": "japanese"
+  },
+  {
+    "word": "nichi",
+    "y": 15461,
+    "x": 15,
+    "length": 1,
+    "language": "japanese"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "word": "the",
+    "y": 41506,
+    "x": 1,
+    "length": 3,
+    "language": "english"
+  },
+  { 
+    "word": "of",
+    "y": 38767,
+    "x": 2,
+    "length": 2,
+    "language": "english"
+  },
+  {
+    "word": "and",
+    "y": 32159,
+    "x": 3,
+    "length": 3,
+    "language": "english"
+  },
+  {
+    "word": "in",
+    "y": 30358,
+    "x": 4,
+    "length": 2,
+    "language": "english"
+  },
+  {
+    "word": "a",
+    "y": 23888,
+    "x": 5,
+    "length": 1,
+    "language": "english"
+  },
+  {
+    "word": "to",
+    "y": 23335,
+    "x": 6,
+    "length": 2,
+    "language": "english"
+  },
+  {
+    "word": "was",
+    "y": 12905,
+    "x": 7,
+    "length": 3,
+    "language": "english"
+  },
+  {
+    "word": "is",
+    "y": 12346,
+    "x": 8,
+    "length": 2,
+    "language": "english"
+  },
+  {
+    "word": "for",
+    "y": 9342,
+    "x": 9,
+    "length": 3,
+    "language": "english"
+  },
+  {
+    "word": "as",
+    "y": 9298,
+    "x": 10,
+    "length": 2,
+    "language": "english"
+  },
+  {
+    "word": "on",
+    "y": 8252,
+    "x": 11,
+    "length": 2,
+    "language": "english"
+  },
+  {
+    "word": "with",
+    "y": 7875,
+    "x": 12,
+    "length": 4,
+    "language": "english"
+  },
+  {
+    "word": "by",
+    "y": 7751,
+    "x": 13,
+    "length": 2,
+    "language": "english"
+  },
+  {
+    "word": "that",
+    "y": 6636,
+    "x": 14,
+    "length": 4,
+    "language": "english"
+  },
+  {
+    "word": "he",
+    "y": 6601,
+    "x": 15,
+    "length": 2,
+    "language": "english"
+  },{
+    "word": "der",
+    "y": 44624,
+    "x": 1,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "die",
+    "y": 35834,
+    "x": 2,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "und",
+    "y": 31823,
+    "x": 3,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "in",
+    "y": 25290,
+    "x": 4,
+    "length": 2,
+    "language": "german"
+  },
+  {
+    "word": "von",
+    "y": 16143,
+    "x": 5,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "den",
+    "y": 12726,
+    "x": 6,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "im",
+    "y": 12186,
+    "x": 7,
+    "length": 2,
+    "language": "german"
+  },
+  {
+    "word": "des",
+    "y": 11151,
+    "x": 8,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "das",
+    "y": 10575,
+    "x": 9,
+    "length": 3,
+    "language": "german"
+  },
+  { 
+    "word": "mit",
+    "y": 10424,
+    "x": 10,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "er",
+    "y": 9282,
+    "x": 11,
+    "length": 2,
+    "language": "german"
+  },
+  {
+    "word": "ist",
+    "y": 9141,
+    "x": 12,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "dem",
+    "y": 8309,
+    "x": 13,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "als",
+    "y": 8227,
+    "x": 14,
+    "length": 3,
+    "language": "german"
+  },
+  { 
+    "word": "zu",
+    "y": 7938,
+    "x": 15,
+    "length": 2,
+    "language": "german"
+  },  {
+    "word": "de",
+    "y": 80159,
+    "x": 1,
+    "length": 2,
+    "language": "spanish"
+  },
+  {
+    "word": "la",
+    "y": 43314,
+    "x": 2,
+    "length": 2,
+    "language": "spanish"
+  },
+  {
+    "word": "en",
+    "y": 35837,
+    "x": 3,
+    "length": 2,
+    "language": "spanish"
+  },
+  {
+    "word": "el",
+    "y": 33171,
+    "x": 4,
+    "length": 2,
+    "language": "spanish"
+  },
+  {
+    "word": "y",
+    "y": 27938,
+    "x": 5,
+    "length": 1,
+    "language": "spanish"
+  },
+  {
+    "word": "a",
+    "y": 19203,
+    "x": 6,
+    "length": 1,
+    "language": "spanish"
+  },
+  {
+    "word": "que",
+    "y": 18442,
+    "x": 7,
+    "length": 3,
+    "language": "spanish"
+  },
+  {
+    "word": "los",
+    "y": 15710,
+    "x": 8,
+    "length": 3,
+    "language": "spanish"
+  },
+  {
+    "word": "del",
+    "y": 14489,
+    "x": 9,
+    "length": 3,
+    "language": "spanish"
+  },
+  {
+    "word": "se",
+    "y": 12823,
+    "x": 10,
+    "length": 2,
+    "language": "spanish"
+  },
+  {
+    "word": "un",
+    "y": 10447,
+    "x": 11,
+    "length": 2,
+    "language": "spanish"
+  },
+  {
+    "word": "por",
+    "y": 10368,
+    "x": 12,
+    "length": 3,
+    "language": "spanish"
+  },
+  {
+    "word": "con",
+    "y": 9725,
+    "x": 13,
+    "length": 3,
+    "language": "spanish"
+  },
+  {
+    "word": "las",
+    "y": 9631,
+    "x": 14,
+    "length": 3,
+    "language": "spanish"
+  },
+  {
+    "word": "una",
+    "y": 9104,
+    "x": 15,
+    "length": 3,
+    "language": "spanish"
+  }, 
+  {
+    "word": "no",
+    "y": 34233,
+    "x": 1,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "o",
+    "y": 22671,
+    "x": 2,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "ni",
+    "y": 22552,
+    "x": 3,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "ha",
+    "y": 22317,
+    "x": 4,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "ga",
+    "y": 21493,
+    "x": 5,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "de",
+    "y": 19491,
+    "x": 6,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "to",
+    "y": 19174,
+    "x": 7,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "na",
+    "y": 16944,
+    "x": 8,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "mo",
+    "y": 16902,
+    "x": 9,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "toshi",
+    "y": 16361,
+    "x": 10,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "he",
+    "y": 16225,
+    "x": 11,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "kara",
+    "y": 16212,
+    "x": 12,
+    "length": 2,
+    "language": "japanese"
+  },
+  {
+    "word": "o",
+    "y": 16027,
+    "x": 13,
+    "length": 1,
+    "language": "japanese"
+  },
+  {
+    "word": "kiji",
+    "y": 15886,
+    "x": 14,
+    "length": 2,
+    "language": "japanese"
+  },
+  {
+    "word": "nichi",
+    "y": 15461,
+    "x": 15,
+    "length": 1,
+    "language": "japanese"
+  },   {
+    "word": "있다",
+    "y": 10413,
+    "x": 1,
+    "length": 2,
+    "language": "korean"
+  },
+  {
+    "word": "이",
+    "y": 6535,
+    "x": 2,
+    "length": 1,
+    "language": "korean"
+  },
+  {
+    "word": "수",
+    "y": 4774,
+    "x": 3,
+    "length": 1,
+    "language": "korean"
+  },
+  {
+    "word": "는",
+    "y": 4102,
+    "x": 4,
+    "length": 1,
+    "language": "korean"
+  },
+  {
+    "word": "그",
+    "y": 3934,
+    "x": 5,
+    "length": 1,
+    "language": "korean"
+  },
+  {
+    "word": "있는",
+    "y": 3650,
+    "x": 6,
+    "length": 2,
+    "language": "korean"
+  },
+  {
+    "word": "은",
+    "y": 3426,
+    "x": 7,
+    "length": 1,
+    "language": "korean"
+  },
+  {
+    "word": "의",
+    "y": 2707,
+    "x": 8,
+    "length": 1,
+    "language": "korean"
+  },
+  {
+    "word": "한다",
+    "y": 2519,
+    "x": 9,
+    "length": 2,
+    "language": "korean"
+  },
+  {
+    "word": "되었다",
+    "y": 2155,
+    "x": 10,
+    "length": 3,
+    "language": "korean"
+  },
+  {
+    "word": "한",
+    "y": 1993,
+    "x": 11,
+    "length": 1,
+    "language": "korean"
+  },
+  {
+    "word": "에",
+    "y": 1753,
+    "x": 12,
+    "length": 1,
+    "language": "korean"
+  },
+  {
+    "word": "같은",
+    "y": 1745,
+    "x": 13,
+    "length": 2,
+    "language": "korean"
+   },
+   {
+    "word": "그는",
+    "y": 1730,
+    "x": 14,
+    "length": 2,
+    "language": "korean"
+  },
+  {
+    "word": "를",
+    "y": 1707,
+    "x": 15,
+    "length": 1,
+    "language": "korean"
+  }
+]
