@@ -351,6 +351,10 @@ height: 7vh;
   .article-heading p {
     font-size: 2.5rem;
   }
+  .heading, .article-heading {
+    min-height: 100vh;
+    height: auto;
+  }
   .article-body{
     padding-left: 0vw;
     padding-right: 0vw;

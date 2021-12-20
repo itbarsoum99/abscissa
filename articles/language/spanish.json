@@ -1,0 +1,107 @@
+[
+  {
+    "word": "de",
+    "y": 80159,
+    "x": 1,
+    "length": 2,
+    "language": "spanish"
+  },
+  {
+    "word": "la",
+    "y": 43314,
+    "x": 2,
+    "length": 2,
+    "language": "spanish"
+  },
+  {
+    "word": "en",
+    "y": 35837,
+    "x": 3,
+    "length": 2,
+    "language": "spanish"
+  },
+  {
+    "word": "el",
+    "y": 33171,
+    "x": 4,
+    "length": 2,
+    "language": "spanish"
+  },
+  {
+    "word": "y",
+    "y": 27938,
+    "x": 5,
+    "length": 1,
+    "language": "spanish"
+  },
+  {
+    "word": "a",
+    "y": 19203,
+    "x": 6,
+    "length": 1,
+    "language": "spanish"
+  },
+  {
+    "word": "que",
+    "y": 18442,
+    "x": 7,
+    "length": 3,
+    "language": "spanish"
+  },
+  {
+    "word": "los",
+    "y": 15710,
+    "x": 8,
+    "length": 3,
+    "language": "spanish"
+  },
+  {
+    "word": "del",
+    "y": 14489,
+    "x": 9,
+    "length": 3,
+    "language": "spanish"
+  },
+  {
+    "word": "se",
+    "y": 12823,
+    "x": 10,
+    "length": 2,
+    "language": "spanish"
+  },
+  {
+    "word": "un",
+    "y": 10447,
+    "x": 11,
+    "length": 2,
+    "language": "spanish"
+  },
+  {
+    "word": "por",
+    "y": 10368,
+    "x": 12,
+    "length": 3,
+    "language": "spanish"
+  },
+  {
+    "word": "con",
+    "y": 9725,
+    "x": 13,
+    "length": 3,
+    "language": "spanish"
+  },
+  {
+    "word": "las",
+    "y": 9631,
+    "x": 14,
+    "length": 3,
+    "language": "spanish"
+  },
+  {
+    "word": "una",
+    "y": 9104,
+    "x": 15,
+    "length": 3,
+    "language": "spanish"
+  }
+]

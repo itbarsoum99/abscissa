@@ -1,0 +1,107 @@
+[
+  {
+    "word": "der",
+    "y": 44624,
+    "x": 1,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "die",
+    "y": 35834,
+    "x": 2,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "und",
+    "y": 31823,
+    "x": 3,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "in",
+    "y": 25290,
+    "x": 4,
+    "length": 2,
+    "language": "german"
+  },
+  {
+    "word": "von",
+    "y": 16143,
+    "x": 5,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "den",
+    "y": 12726,
+    "x": 6,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "im",
+    "y": 12186,
+    "x": 7,
+    "length": 2,
+    "language": "german"
+  },
+  {
+    "word": "des",
+    "y": 11151,
+    "x": 8,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "das",
+    "y": 10575,
+    "x": 9,
+    "length": 3,
+    "language": "german"
+  },
+  { 
+    "word": "mit",
+    "y": 10424,
+    "x": 10,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "er",
+    "y": 9282,
+    "x": 11,
+    "length": 2,
+    "language": "german"
+  },
+  {
+    "word": "ist",
+    "y": 9141,
+    "x": 12,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "dem",
+    "y": 8309,
+    "x": 13,
+    "length": 3,
+    "language": "german"
+  },
+  {
+    "word": "als",
+    "y": 8227,
+    "x": 14,
+    "length": 3,
+    "language": "german"
+  },
+  { 
+    "word": "zu",
+    "y": 7938,
+    "x": 15,
+    "length": 2,
+    "language": "german"
+  }
+]
