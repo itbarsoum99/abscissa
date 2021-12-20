@@ -1,5 +1,107 @@
 [
   {
-    "word": "",
+    "word": "в",
+    "y": 49066,
+    "x": 1,
+    "length": 1,
+    "language": "russian"
+  },
+  {
+    "word": "и",
+    "y": 30413,
+    "x": 2,
+    "length": 1,
+    "language": "russian"
+  },
+  {
+    "word": "на",
+    "y": 14852,
+    "x": 3,
+    "length": 2,
+    "language": "russian"
+  },
+  {
+    "word": "с",
+    "y": 11603,
+    "x": 4,
+    "length": 1,
+    "language": "russian"
+  },
+  {
+    "word": "по",
+    "y": 6427,
+    "x": 5,
+    "length": 2,
+    "language": "russian"
+  },
+  {
+    "word": "из",
+    "y": 5244,
+    "x": 6,
+    "length": 2,
+    "language": "russian"
+  },
+  {
+    "word": "не",
+    "y": 5087,
+    "x": 7,
+    "length": 2,
+    "language": "russian"
+  },
+  {
+    "word": "года",
+    "y": 4822,
+    "x": 8,
+    "length": 4,
+    "language": "russian"
+  },
+  {
+    "word": "к",
+    "y": 4645,
+    "x": 9,
+    "length": 1,
+    "language": "russian"
+  },
+  {
+    "word": "а",
+    "y": 4042,
+    "x": 10,
+    "length": 1,
+    "language": "russian"
+  },
+  {
+    "word": "для",
+    "y": 3944,
+    "x": 11,
+    "length": 3,
+    "language": "russian"
+  },
+  { 
+    "word": "году",
+    "y": 3927,
+    "x": 12,
+    "length": 4,
+    "language": "russian"
+  },
+  {
+    "word": "что",
+    "y": 3910,
+    "x": 13,
+    "length": 3,
+    "language": "russian"
+  },
+  {
+    "word": "от",
+    "y": 3753,
+    "x": 14,
+    "length": 2,
+    "language": "russian"
+  },
+  {
+    "word": "был",
+    "y": 3727,
+    "x": 15,
+    "length": 3,
+    "language": "russian"
   }
 ]
