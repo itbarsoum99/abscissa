@@ -467,13 +467,14 @@ td {
   .card {
     margin-left: 1vw;
     margin-right: 1vw;
+    border: 4px dashed grey;
   }
   .card img {
     width: 90%;
   }
 
   h1 {
-    font-size: 10vw; 
+    font-size: 20vw; 
     font-weight: 400;
   }
   .card p {
