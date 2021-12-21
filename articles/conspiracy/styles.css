@@ -408,3 +408,96 @@ td {
   font-size: calc(30px + 10vw);
  }
 }
+
+@media (max-width: 650px) {
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+  td {
+    border: none;
+    position: relative;
+    white-space: normal;
+    text-align: left;
+  }
+  .td20 {
+    max-width: 100%;
+   }
+  .card {
+    margin-left: 1vw;
+    margin-right: 1vw;
+  }
+  .card img {
+    width: 90%;
+  }
+  figure {
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  .article-body{
+    padding-left: 0vw;
+    padding-right: 0vw;
+  }
+}
+
+
+
+@media (max-width: 950px){
+  .article {
+    padding-left: 3vw;
+    padding-right: 3vw;
+  }
+}
+
+@media (max-width: 1250px){
+  .article {
+    padding-left: 7vw;
+    padding-right: 7vw;
+  }
+}
+
+@media (pointer: coarse) {
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+  td {
+    border: none;
+    position: relative;
+    white-space: normal;
+    text-align: left;
+  }
+  .td20 {
+    max-width: 100%;
+   }
+  .card {
+    margin-left: 1vw;
+    margin-right: 1vw;
+  }
+  .card img {
+    width: 90%;
+  }
+
+  h1 {
+    font-size: 110px;
+  }
+  .body-p {
+    font-size: 2.5rem;
+    text-align: left;
+    text-indent: 10%;
+  }
+  .sources p {
+    text-indent: 0%;
+  }
+  h2 {
+    font-size: 3.2rem;
+  }
+  figcaption {
+    font-size: 2rem;
+  }
+  #mouse-scroll {
+    display: none;
+  }
+  a {
+    text-decoration-thickness: 7px;
+  }
+}
+
