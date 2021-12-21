@@ -478,6 +478,7 @@ td {
     font-family: "Roboto Mono", monospace;
     font-size: 20vw; 
     font-weight: 600;
+    word-break: break-word;
   }
   .card p {
     font-size: 3rem;
