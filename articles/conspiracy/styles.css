@@ -468,6 +468,7 @@ td {
     margin-left: 1vw;
     margin-right: 1vw;
     border: 4px dashed grey;
+    border-radius: 15px;
   }
   .card img {
     width: 90%;
@@ -514,6 +515,9 @@ td {
   font-size: 2em;
 }
   .blank {
+    font-size: 75px !important;
+  }
+  #theory {
     font-size: 75px !important;
   }
 }
