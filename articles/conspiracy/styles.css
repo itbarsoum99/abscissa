@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&family=Poppins:wght@400;600;700&family=Roboto+Mono&family=Staatliches&family=Unica+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&family=Poppins:wght@400;600;700&family=Roboto+Mono:wght@400;600&family=Staatliches&family=Unica+One&display=swap');
 body {
   margin: 0;
   background-color: #131313;
@@ -475,8 +475,9 @@ td {
   }
 
   h1 {
+    font-family: "Roboto Mono", monospace;
     font-size: 20vw; 
-    font-weight: 400;
+    font-weight: 600;
   }
   .card p {
     font-size: 3rem;
