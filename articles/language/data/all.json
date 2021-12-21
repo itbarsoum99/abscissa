@@ -625,6 +625,320 @@
     "x": 15,
     "length": 3,
     "language": "russian"
+  },
+  {
+    "word": "de",
+    "y": 70981,
+    "x": 1,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+    "word": "a",
+    "y": 36237,
+    "x": 2,
+    "length": 1,
+    "language": "portuguese"
+  },
+  {
+    "word": "e",
+    "y": 32426,
+    "x": 3,
+    "length": 1,
+    "language": "portuguese"
+  },
+  {
+    "word": "o",
+    "y": 29657,
+    "x": 4,
+    "length": 1,
+    "language": "portuguese"
+  },
+  {
+    "word": "em",
+    "y": 20505,
+    "x": 5,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+    "word": "do",
+    "y": 20354,
+    "x": 6,
+    "length": 2,
+    "language": "portuguese"
+  },
+  { 
+    "word": "da",
+    "y": 19532,
+    "x": 7,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+    "word": "que",
+    "y": 16254,
+    "x": 8,
+    "length": 3,
+    "language": "portuguese"
+  },
+  {
+    "word": "uma",
+    "y": 13664,
+    "x": 9,
+    "length": 3,
+    "language": "portuguese"
+  },
+  {
+    "word": "um",
+    "y": 12779,
+    "x": 10,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+    "word": "com",
+    "y": 11828,
+    "x": 11,
+    "length": 3,
+    "language": "portuguese"
+  },
+  {
+    "word": "no",
+    "y": 11169,
+    "x": 12,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+    "word": "na",
+    "y": 9500,
+    "x": 13,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+    "word": "para",
+    "y": 9068,
+    "x": 14,
+    "length": 4,
+    "language": "portuguese"
+  },
+  {
+    "word": "os",
+    "y": 8797,
+    "x": 15,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+		"word": "में",
+		"y": 46471,
+		"x": 1,
+		"length": 1,
+		"language": "hindi"
+	},
+	{
+		"word": "है",
+		"y": 22405,
+		"x": 2,
+		"length": 1,
+		"language": "hindi"
+	},
+	{
+		"word": "हैं",
+		"y": 18164,
+		"x": 3,
+		"length": 1,
+		"language": "hindi"
+	},
+	{
+		"word": "नहीं",
+		"y": 13729,
+		"x": 4,
+		"length": 2,
+		"language": "hindi"
+	},
+	{
+		"word": "लिए",
+		"y": 8188,
+		"x": 5,
+		"length": 2,
+		"language": "hindi"
+	},
+	{
+		"word": "गया",
+		"y": 6356,
+		"x": 6,
+		"length": 2,
+		"language": "hindi"
+	},
+	{
+		"word": "तथा",
+		"y": 5781,
+		"x": 7,
+		"length": 2,
+		"language": "hindi"
+	},
+	{
+		"word": "अपने",
+		"y": 4745,
+		"x": 8,
+		"length": 3,
+		"language": "hindi"
+	},
+	{
+		"word": "कुछ",
+		"y": 4399,
+		"x": 9,
+		"length": 2,
+		"language": "hindi"
+	},
+	{
+		"word": "साथ",
+		"y": 4258,
+		"x": 10,
+		"length": 2,
+		"language": "hindi"
+	},
+	{
+		"word": "होता",
+		"y": 4203,
+		"x": 11,
+		"length": 2,
+		"language": "hindi"
+	},
+	{
+		"word": "था",
+		"y": 3970,
+		"x": 12,
+		"length": 1,
+		"language": "hindi"
+	},
+	{
+		"word": "दिया",
+		"y": 3730,
+		"x": 13,
+		"length": 2,
+		"language": "hindi"
+	},
+	{
+		"word": "हुए",
+		"y": 3535,
+		"x": 14,
+		"length": 2,
+		"language": "hindi"
+	},
+	{
+		"word": "कोई",
+		"y": 2294,
+		"x": 15,
+		"length": 2,
+		"language": "hindi"
+	},
+  {
+    "word": "في",
+    "y": 39077,
+    "x": 1,
+    "length": 2,
+    "language": "arabic"
+  },
+  { 
+    "word": "من",
+    "y": 28638,
+    "x": 2,
+    "length": 2,
+    "language": "arabic"
+  },
+  {
+    "word": "على",
+    "y": 13569,
+    "x": 3,
+    "length": 3,
+    "language": "arabic"
+  },
+  {
+    "word": "إلى",
+    "y": 10239,
+    "x": 4,
+    "length": 3,
+    "language": "arabic"
+  },
+  {
+    "word": "أن",
+    "y": 6739,
+    "x": 5,
+    "length": 2,
+    "language": "arabic"
+  },
+  {
+    "word": "التي",
+    "y": 5350,
+    "x": 6,
+    "length": 4,
+    "language": "arabic"
+  },
+  {
+    "word": "و",
+    "y": 5245,
+    "x": 7,
+    "length": 1,
+    "language": "arabic"
+  },
+  {
+    "word": "عام",
+    "y": 5006,
+    "x": 8,
+    "length": 3,
+    "language": "arabic"
+  },
+  {
+    "word": "عن",
+    "y": 4839,
+    "x": 9,
+    "length": 2,
+    "language": "arabic"
+  },
+  {
+    "word": "أو",
+    "y": 4505,
+    "x": 10,
+    "length": 2,
+    "language": "arabic"
+  },
+  {
+    "word": "مع",
+    "y": 3922,
+    "x": 11,
+    "length": 2,
+    "language": "arabic"
+  },
+  {
+    "word": "كان",
+    "y": 3597,
+    "x": 12,
+    "length": 3,
+    "language": "arabic"
+  },
+  {
+    "word": "الذي",
+    "y": 3151,
+    "x": 13,
+    "length": 4,
+    "language": "arabic"
+  },
+  {
+    "word": "هذه",
+    "y": 3050,
+    "x": 14,
+    "length": 3,
+    "language": "arabic"
+  },
+  {
+    "word": "ما",
+    "y": 3044,
+    "x": 15,
+    "length": 2,
+    "language": "arabic"
   }
-
 ]

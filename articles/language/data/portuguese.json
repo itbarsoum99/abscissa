@@ -1,0 +1,107 @@
+[
+  {
+    "word": "de",
+    "y": 70981,
+    "x": 1,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+    "word": "a",
+    "y": 36237,
+    "x": 2,
+    "length": 1,
+    "language": "portuguese"
+  },
+  {
+    "word": "e",
+    "y": 32426,
+    "x": 3,
+    "length": 1,
+    "language": "portuguese"
+  },
+  {
+    "word": "o",
+    "y": 29657,
+    "x": 4,
+    "length": 1,
+    "language": "portuguese"
+  },
+  {
+    "word": "em",
+    "y": 20505,
+    "x": 5,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+    "word": "do",
+    "y": 20354,
+    "x": 6,
+    "length": 2,
+    "language": "portuguese"
+  },
+  { 
+    "word": "da",
+    "y": 19532,
+    "x": 7,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+    "word": "que",
+    "y": 16254,
+    "x": 8,
+    "length": 3,
+    "language": "portuguese"
+  },
+  {
+    "word": "uma",
+    "y": 13664,
+    "x": 9,
+    "length": 3,
+    "language": "portuguese"
+  },
+  {
+    "word": "um",
+    "y": 12779,
+    "x": 10,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+    "word": "com",
+    "y": 11828,
+    "x": 11,
+    "length": 3,
+    "language": "portuguese"
+  },
+  {
+    "word": "no",
+    "y": 11169,
+    "x": 12,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+    "word": "na",
+    "y": 9500,
+    "x": 13,
+    "length": 2,
+    "language": "portuguese"
+  },
+  {
+    "word": "para",
+    "y": 9068,
+    "x": 14,
+    "length": 4,
+    "language": "portuguese"
+  },
+  {
+    "word": "os",
+    "y": 8797,
+    "x": 15,
+    "length": 2,
+    "language": "portuguese"
+  }
+]

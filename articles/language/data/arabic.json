@@ -1,0 +1,107 @@
+[
+  {
+    "word": "في",
+    "y": 39077,
+    "x": 1,
+    "length": 2,
+    "language": "arabic"
+  },
+  { 
+    "word": "من",
+    "y": 28638,
+    "x": 2,
+    "length": 2,
+    "language": "arabic"
+  },
+  {
+    "word": "على",
+    "y": 13569,
+    "x": 3,
+    "length": 3,
+    "language": "arabic"
+  },
+  {
+    "word": "إلى",
+    "y": 10239,
+    "x": 4,
+    "length": 3,
+    "language": "arabic"
+  },
+  {
+    "word": "أن",
+    "y": 6739,
+    "x": 5,
+    "length": 2,
+    "language": "arabic"
+  },
+  {
+    "word": "التي",
+    "y": 5350,
+    "x": 6,
+    "length": 4,
+    "language": "arabic"
+  },
+  {
+    "word": "و",
+    "y": 5245,
+    "x": 7,
+    "length": 1,
+    "language": "arabic"
+  },
+  {
+    "word": "عام",
+    "y": 5006,
+    "x": 8,
+    "length": 3,
+    "language": "arabic"
+  },
+  {
+    "word": "عن",
+    "y": 4839,
+    "x": 9,
+    "length": 2,
+    "language": "arabic"
+  },
+  {
+    "word": "أو",
+    "y": 4505,
+    "x": 10,
+    "length": 2,
+    "language": "arabic"
+  },
+  {
+    "word": "مع",
+    "y": 3922,
+    "x": 11,
+    "length": 2,
+    "language": "arabic"
+  },
+  {
+    "word": "كان",
+    "y": 3597,
+    "x": 12,
+    "length": 3,
+    "language": "arabic"
+  },
+  {
+    "word": "الذي",
+    "y": 3151,
+    "x": 13,
+    "length": 4,
+    "language": "arabic"
+  },
+  {
+    "word": "هذه",
+    "y": 3050,
+    "x": 14,
+    "length": 3,
+    "language": "arabic"
+  },
+  {
+    "word": "ما",
+    "y": 3044,
+    "x": 15,
+    "length": 2,
+    "language": "arabic"
+  }
+]
