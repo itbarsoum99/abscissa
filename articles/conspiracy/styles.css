@@ -429,10 +429,6 @@ td {
   .card img {
     width: 90%;
   }
-  figure {
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-  }
   .article-body{
     padding-left: 0vw;
     padding-right: 0vw;
@@ -488,10 +484,7 @@ td {
     text-indent: 0%;
   }
   h2 {
-    font-size: 3.2rem;
-  }
-  figcaption {
-    font-size: 2rem;
+    font-size: 5.2rem;
   }
   #mouse-scroll {
     display: none;
@@ -499,5 +492,12 @@ td {
   a {
     text-decoration-thickness: 7px;
   }
+  .selected p {
+    font-size: 3.5em;
+  }
+  .blank {
+    font-size: 3.5em;
+  }
+
 }
 
