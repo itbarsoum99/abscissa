@@ -542,5 +542,9 @@ height: 7vh;
   #theory {
     font-size: 75px !important;
   }
+  nav {
+    padding-top: 15px;
+  }
 }
+
 
