@@ -476,7 +476,7 @@ td {
     font-size: 10vh; 
     font-weight: 400;
   }
-  .body-p {
+  .card p {
     font-size: 3rem !important;
     text-align: left;
   }
@@ -484,7 +484,7 @@ td {
     text-indent: 0%;
   }
   h2 {
-    font-size: 5.2rem;
+    font-size: 5.2rem !important;
   }
   #mouse-scroll {
     display: none;
