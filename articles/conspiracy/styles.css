@@ -477,7 +477,7 @@ td {
     font-weight: 400;
   }
   .card p {
-    font-size: 3rem !important;
+    font-size: 3rem;
     text-align: left;
   }
   .sources p {
@@ -495,7 +495,7 @@ td {
     text-decoration-thickness: 7px;
   }
   .selected p {
-    font-size: 2em !important;
+    font-size: 2em;
   }
   .blank {
     font-size: 50px !important;
