@@ -473,7 +473,7 @@ td {
   }
 
   h1 {
-    font-size: 10vh; 
+    font-size: 10vw; 
     font-weight: 400;
   }
   .card p {
@@ -497,8 +497,11 @@ td {
   .selected p {
     font-size: 2em;
   }
+  .basic-button {
+    font-size: 2rem;
+  }
   .blank {
-    font-size: 70px !important;
+    font-size: 75px !important;
   }
 }
 
