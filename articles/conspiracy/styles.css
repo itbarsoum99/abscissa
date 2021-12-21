@@ -485,8 +485,8 @@ td {
   }
   h2 {
     font-size: 5.2rem !important;
-    background: transparent;
-    color: whitesmoke;
+    background: transparent !important;
+    color: whitesmoke !important;
   }
   #mouse-scroll {
     display: none;
