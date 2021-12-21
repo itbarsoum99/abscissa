@@ -498,7 +498,7 @@ td {
     font-size: 2em;
   }
   .basic-button {
-    font-size: 2rem;
+    display: none;
   }
 .num {
   position: absolute;
