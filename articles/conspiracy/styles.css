@@ -477,7 +477,7 @@ td {
     font-weight: 400;
   }
   .body-p {
-    font-size: 3rem;
+    font-size: 3rem !important;
     text-align: left;
   }
   .sources p {
@@ -493,10 +493,10 @@ td {
     text-decoration-thickness: 7px;
   }
   .selected p {
-    font-size: 3.5em;
+    font-size: 2em;
   }
   .blank {
-    font-size: 3.5em;
+    font-size: 3.5em !important;
   }
 
 }
