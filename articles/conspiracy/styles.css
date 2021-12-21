@@ -494,8 +494,8 @@ td {
   a {
     text-decoration-thickness: 7px;
   }
-  .selected p, .basic-button {
-    font-size: 2em;
+  .selected p {
+    font-size: 2em !important;
   }
   .blank {
     font-size: 5em !important;
