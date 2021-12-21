@@ -502,7 +502,7 @@ td {
     font-size: 2em;
   }
   .basic-button {
-    display: none;
+    font-size: 2rem;
   }
 .num {
   position: absolute;
