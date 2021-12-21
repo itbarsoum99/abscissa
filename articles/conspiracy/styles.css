@@ -494,11 +494,11 @@ td {
   a {
     text-decoration-thickness: 7px;
   }
-  .selected p {
+  .selected p, .basic-button {
     font-size: 2em;
   }
   .blank {
-    font-size: 3.5em !important;
+    font-size: 5em !important;
   }
 
 }
