@@ -500,6 +500,18 @@ td {
   .basic-button {
     font-size: 2rem;
   }
+.num {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 50px;
+  height: 50px;
+  padding: 6px;
+  text-align: center;
+  border: 1px solid whitesmoke;
+  border-radius: 50%;
+  font-size: 2em;
+}
   .blank {
     font-size: 75px !important;
   }
