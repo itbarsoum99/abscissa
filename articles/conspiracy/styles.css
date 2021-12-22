@@ -430,6 +430,17 @@ height: 7vh;
 }
 
 @media (max-width: 650px) {
+  .card {
+    margin-left: 1vw;
+    margin-right: 1vw;
+  }
+  .article-body{
+    padding-left: 0vw;
+    padding-right: 0vw;
+  }
+}
+
+@media (max-width: 800px) {
   table, thead, tbody, th, td, tr {
     display: block;
   }
@@ -442,20 +453,11 @@ height: 7vh;
   .td20 {
     max-width: 100%;
    }
-  .card {
-    margin-left: 1vw;
-    margin-right: 1vw;
-  }
   .card img {
     width: 90%;
   }
-  .article-body{
-    padding-left: 0vw;
-    padding-right: 0vw;
-  }
+
 }
-
-
 
 @media (max-width: 950px){
   .article {

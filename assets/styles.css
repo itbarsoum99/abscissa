@@ -87,7 +87,7 @@ body::-webkit-scrollbar {
 
 .item:nth-of-type(6) {
   grid-column-start: 2;
-/*   grid-column-end: 5; */
+  grid-column-end: 5; 
   grid-column-end: span 2;
 }
 
@@ -95,6 +95,7 @@ body::-webkit-scrollbar {
   grid-row-start: span 2;
 }
 */
+
 .article {
   padding-left: 23vw;
   padding-right: 23vw;
