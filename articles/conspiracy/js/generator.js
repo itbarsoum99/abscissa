@@ -79,7 +79,7 @@ function select() {
 
 }
 
-var intriguing = ["which created a tornado", "which caused a pandemic", "which provoked nuclear war", "which led to widespread rioting", "which helped a drug cartel", "which increased gang violence", "which caused the sinking of Hawaii"]
+var intriguing = ["which created a tornado", "which caused a pandemic", "which provoked nuclear war", "which led to widespread rioting", "which helped a drug cartel", "which increased gang violence", "which caused the sinking of Atlantis"]
 function intrigue() {
   intrigueBlank.innerHTML = intriguing[Math.floor(Math.random() * intriguing.length)];
 } 
