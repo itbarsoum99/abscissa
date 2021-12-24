@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Human language and math are connected</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="/assets/styles.css">
+  </head>
+  <body>
+  <nav class="navigation">
+    <a href="/"><img src="/assets/logo.png"></a>
+  </nav>
+  <main class="article">
+    <section class="article-heading">
+      <h1>Human language has <u>inextricable connections to math.</u></h1>
+      <p>December 2021</p>
+      <div id="mouse-scroll">
+        <div class="mouse">
+          <div class="mouse-in"></div>
+        </div>
+        <div>
+          <span class="down-arrow-1"></span>
+          <span class="down-arrow-2"></span>
+          <span class="down-arrow-3"></span>
+        </div>
+      </div>
+    </section>
+    <section class="article-body">
+      <p>Human language is our way of expressing ourselves verbally, communicating effectively, and breaking down barriers. Language, <a href="https://news.stanford.edu/2019/08/22/the-power-of-language-how-words-shape-people-culture/">according to scholars</a>, is a "cultural, social and psychological phenomenon" that can "help us better understand ourselves and why we behave the way we do." Small choices in language can have tremendous consequences, especially when powerful people choose their words hastily.</p>
+      <p>In education, though, language is treated as a separate domain from mathematics. While some curricula promote science, technology, engineering, and math (STEM) education, others emphasize the learning of languages, arts, and humanities. But this divisive outlook on education ignores the deep connection between mathematics and human language.</p>
+      <p>There are two ways in which language is directly linked to math: usage and evolution. Humans' use of words can be predicted using established mathematical laws - like <a href="https://www.britannica.com/topic/Zipfs-law">Zipf's law</a>, which says that the rank-frequency distribution of certain events is an inverse relation.</p>
+      <p>The language that adheres most closely to Zipf's law is Korean, whose rank-frequency distribution has the highest correlation coefficient - meaning that it creates a predictable mathematical relation.</p>
+      <figure class="figure">
+        <img src="graphs/korean.png" alt="graph of data">
+        <figcaption>Frequency of word per million vs. word frequency rank, for the fifteen most common words in analyzed Korean popular culture. <a href="data/korean.json">See our data.</a></figcaption>
+      </figure>
+      <p>Korean isn't the only language that follows a distinctly mathematical trend, though. Spanish, the second most-spoken language in the world, also has a high correlation coefficient, with only some variation from the trendline.</p>
+      <figure class="figure">
+        <img src="graphs/spanish.png" alt="graph of data">
+        <figcaption>Frequency of word per million vs. word frequency rank, for the fifteen most common words in analyzed Spanish popular culture. <a href="data/spanish.json">See our data.</a></figcaption>
+      </figure>
+      <p>While Spanish (and the closely related Portuguese) have words with far higher frequencies than the top-ranked word in Korean (Spanish's "de" has a frequency greater than 80,000 per million words, while Korean's "있다" has a frequency of only about 10,000 per million words), the mathematical relationship is preserved across nearly all of the world's most prevalent languages for which frequency charts are available.</p>
+      <figure>
+        <img src="graphs/all.png" alt="graph of data">
+        <figcaption>Frequency of word per million vs. word frequency ranking, for the fifteen most common words in many of the most widespread languages in the world. <a href="data/all.json">See our data.</a></figcaption>
+      </figure>
+      <p>The inverse relationship between word rank and frequency (as predicted by Zipf's law) is even more evident when all of the observed languages are modeled together on the same graph. By taking the sum of frequencies at each rank for all of the languages, the graphs condense into a nearly perfect mathematical relationship representing human language as a whole.</p>
+      <figure>
+        <img src="graphs/allcombined.png" alt="graph of data">
+        <figcaption>Sum of frequencies per million by rank vs. word frequency ranking, for the fifteen most common words in many of the most widespread languages in the world. <a href="data/allcombined.json">See our data.</a></figcaption>
+      </figure>
+      <p>Humans use established languages in deeply mathematical ways. But at the same time, the evolution of those languages can also be explained mathematically. Martin Nowak, a leading biological researcher, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204117/">suggests that</a> language, like life, has evolved by natural selection, where the words and grammar best suited to expressing the nature of the world prevail.</p>
+      <p>In fact, Nowak suggests that a universal grammar exists, representing the fundamental laws of nature, which is directly related to neural networks. This universal grammar is not learned, but understood and intrinsic to the learning of languages. And it can be modeled mathematically.</p>
+      <p>In the end, math and language are inextricably connected to one another, and should not be considered separate. When we force them apart in our rigid educational systems, we ignore the underlying connections and alienate students who prefer one. Language and mathematics should be taught as connected, because they are, undeniably, linked.</p>
+      <section class="sources">
+        <h2>Sources of Data</h2>
+        <p><a href="https://lexiteria.com/word_frequency_list.html">Lexiteria Word Frequency Lists</a></p>
+      </section>
+    </section>
+  </main>
+  </body>
+</html>
