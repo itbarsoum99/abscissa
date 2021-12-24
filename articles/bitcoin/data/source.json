@@ -1,0 +1,37 @@
+[
+  {
+    "source": "Oil",
+    "intensity": 0.206,
+    "x": 1
+  },
+  {
+    "source": "Coal", 
+    "intensity": 0.319,
+    "x": 2
+  },
+  {
+    "source": "Anthracite Coal",
+    "intensity": 0.353,
+    "x": 2
+  },
+  {
+    "source": "Bituminous Coal",
+    "intensity": 0.318,
+    "x": 2
+  },
+  {
+    "source": "Lignite Coal",
+    "intensity": 0.333,
+    "x": 2
+  },
+  {
+    "source": "Subbituminous Coal",
+    "intensity": 0.332,
+    "x": 2
+  },
+  {
+    "source": "Gas",
+    "intensity": 0.188,
+    "x": 3
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "user": "Bitcoin",
+    "intensity": 0.475,
+    "x": 1
+  },
+  {
+    "user": "World",
+    "intensity": 0.23,
+    "x": 2
+  }
+]
